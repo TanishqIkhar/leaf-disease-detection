@@ -10,7 +10,7 @@ An enterprise-grade AI-powered leaf disease detection system featuring a dual-in
 
 ## System Demo
 
-![Leaf Disease Detection Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/video.gif)
+![Leaf Disease Detection Demo](https://github.com/TanishqIkhar/leaf-disease-detection/blob/main/Media/video.gif)
 
 *Experience the power of AI-driven plant health analysis in action*
 
@@ -62,7 +62,7 @@ The **DiseaseAnalysisResult DataClass** serves as a structured container for dis
 
 ### 1. Repository Setup
 **Clone the repository:**
-- Run: git clone https://github.com/shukur-alom/leaf-diseases-detect.git
+- Run: git clone https://github.com/TanishqIkhar/leaf-disease-detection.git
 - Navigate to: cd leaf-diseases-detect/Front
 
 **Create and activate virtual environment (recommended):**
@@ -357,7 +357,7 @@ The analyze_leaf_image_base64 method follows these steps:
 
 ### Development Setup
 **Fork and clone the repository:**
-- Commands: git clone https://github.com/your-username/leaf-diseases-detect.git, cd leaf-diseases-detect/Front
+- Commands: git clone https://github.com/TanishqIkhar/leaf-disease-detection.git, cd leaf-disease-detection
 
 **Create development environment:**
 - Commands: python -m venv dev-env, .\dev-env\Scripts\Activate.ps1
@@ -425,8 +425,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ### Getting Help
 - **📚 Documentation**: Complete guides in this README
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/shukur-alom/leaf-diseases-detect/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/shukur-alom/leaf-diseases-detect/discussions)
+- **🐛 Bug Reports**: [GitHub Issues](https://github.com/TanishqIkhar/leaf-disease-detection/issues)
+- **💡 Feature Requests**: [GitHub Discussions](https://github.com/TanishqIkhar/leaf-disease-detection/discussions)
 - **👥 Community**: Join our developer community for collaboration
 
 ### Professional Support
@@ -436,8 +436,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Technical Support**: Priority support packages for production deployments
 
 ### Contact Information
-- **Project Maintainer**: [@shukur-alom](https://github.com/shukur-alom)
-- **Project Repository**: [leaf-diseases-detect](https://github.com/shukur-alom/leaf-diseases-detect)
+- **Project Maintainer**: [@TanishqIkhar](https://github.com/TanishqIkhar)
+- **Project Repository**: [leaf-disease-detection](https://github.com/TanishqIkhar/leaf-disease-detection)
 - **Issue Tracking**: GitHub Issues for bug reports and feature requests
 - **Email Support**: Available through GitHub contact options
 
@@ -483,7 +483,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ![Plant Health](https://img.shields.io/badge/Plant%20Health-AI%20Powered-brightgreen?style=for-the-badge&logo=leaf)
 ![Precision Agriculture](https://img.shields.io/badge/Precision%20Agriculture-Innovation-orange?style=for-the-badge&logo=agriculture)
 
-[🚀 **Live Demo**](https://leaf-diseases-detect5.streamlit.app) • [🐛 **Report Issues**](https://github.com/shukur-alom/leaf-diseases-detect/issues) • [💡 **Request Features**](https://github.com/shukur-alom/leaf-diseases-detect/discussions)
+[🚀 **Live Demo**](https://leaf-disease-detectionbytanishq.streamlit.app/) • [🐛 **Report Issues**](https://github.com/TanishqIkhar/leaf-disease-detection/issues) • [💡 **Request Features**](https://github.com/TanishqIkhar/leaf-disease-detection/discussions)
 
 **Star ⭐ this repository if it helped you protect your plants!**
 
